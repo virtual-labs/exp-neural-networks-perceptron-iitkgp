@@ -2,7 +2,6 @@
 
 - Left click on the board to plot blue color samples.
 
-step1
 <center>
 <img src="./images/img1.png" style="width:50%;">
 

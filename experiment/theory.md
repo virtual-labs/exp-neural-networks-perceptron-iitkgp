@@ -49,3 +49,5 @@ defines a hyperplane.
 - The decision rule may be set as to respond as class A if the output is +1 and as class B if the output is -1.
 - The perceptron forms two decision regions separated by the hyperplane.
 - The equation of the boundary hyperplane depends on the connection weights and threshold.
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
