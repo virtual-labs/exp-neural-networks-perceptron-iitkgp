@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/plot.css">
+        <script type="text/javascript" src="js/plot.js"></script> 
+    </head>
+    <body>
+        <div id="main-wrapper">
+            <div id="heading"> Perceptron Simulator</div><br>
+            <div id="canvas-wrapper">
+                <canvas id="perceptron-canvas" width="420" height="420"></canvas>
+            </div>
+            <div id="control-wrapper"><br><br>
+                Learning Rate:<br><br> <input type="range" id="trackLearningRate" min ="0.0" max="1.0" step ="0.1" />&nbsp;
+                <input type="text" id="tlrval" size="3" value="0.4"/> 
+                <br/><br><br>
+                
+                No. of Iterations:&nbsp; <input type="text" id="txtIterations" size="3" value="100"/>
+                <br><br><br><br>
+                
+                <button type="button" id="learn-btn"><b>Learn</b></button>&nbsp;&nbsp;&nbsp;
+                <button type="button" id="clear-btn"><b>Clear</b></button>
+            </div>
+        </div>
+    </body>
+</html>
