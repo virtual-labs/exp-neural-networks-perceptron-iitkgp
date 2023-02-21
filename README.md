@@ -23,7 +23,7 @@ The perceptron is a type of artificial neural network invented in 1957 at the Co
 
 ### Contributors List
 
-SrNo | Name | Developer / Integration Engineer | Department| Institute
+SrNo | Name | Integration Engineer | Department| Institute
 :--|:--|:--|:--|:--|
 1 | **Aditya Kameswara Rao Nandula** | Integration| Department of Mechanical Engineering | IIT Kharagpur | 
 
