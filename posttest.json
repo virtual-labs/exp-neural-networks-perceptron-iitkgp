@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is an application of NN (Neural Network)?",
+      "answers": {
+        "a": "Sales forecasting",
+        "b": "Data validation",
+        "c": "Risk management",
+        "d": "All of the mentioned"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " A perceptron adds up all the weighted inputs it receives, and if it exceeds a certain value, it outputs a 1, otherwise it just outputs a 0.",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Sometimes - it can also output intermediate values as well",
+        "d": "Can't say"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not the promise of artificial neural network?",
+      "answers": {
+        "a": "It can explain result",
+        "b": "It can survive the failure of some nodes",
+        "c": "It has inherent parallelism",
+        "d": "It can handle noise"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

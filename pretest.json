@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which is true for neural networks?",
+      "answers": {
+        "a": "It has set of nodes and connections",
+        "b": "Each node computes it's weighted input",
+        "c": "Node could be in excited state or non - excited state",
+        "d": "All of the mentioned"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Neural Networks are complex ______________ with many parameters.",
+      "answers": {
+        "a": "Linear Functions",
+        "b": "Nonlinear Functions",
+        "c": "Discrete Functions",
+        "d": "Exponential Functions"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
